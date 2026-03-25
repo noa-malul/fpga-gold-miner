@@ -1,0 +1,26 @@
+# Quartus build files
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+
+# Quartus-generated files
+*.rpt
+*.summary
+*.qws
+*.smsg
+*.jdi
+*.pof
+*.sof
+*.pin
+*.cdf
+
+# Backup / temp
+*.bak
+*.tmp
+*.log
+
+# OS stuff
+.DS_Store
+Thumbs.db
