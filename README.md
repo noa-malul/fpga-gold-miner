@@ -4,10 +4,15 @@ Hardware implementation of the classic Gold Miner game using SystemVerilog,
 running on an FPGA with VGA output.
 
 ## Demo
-<img width="798" height="520" alt="image" src="https://github.com/user-attachments/assets/764d2923-0122-4920-a2d4-77d207c9a9ed" />
-<img width="811" height="464" alt="image" src="https://github.com/user-attachments/assets/f83d4369-7bce-4a03-b41c-884562282b41" />
-<img width="865" height="464" alt="image" src="https://github.com/user-attachments/assets/815df4ef-541c-4e2a-8825-3a9568011954" />
-<img width="764" height="528" alt="image" src="https://github.com/user-attachments/assets/3887cc59-7e2b-493a-aa3d-1c976042d95c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/764d2923-0122-4920-a2d4-77d207c9a9ed" width="400">
+  <img src="https://github.com/user-attachments/assets/f83d4369-7bce-4a03-b41c-884562282b41" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/815df4ef-541c-4e2a-8825-3a9568011954" width="400">
+  <img src="https://github.com/user-attachments/assets/3887cc59-7e2b-493a-aa3d-1c976042d95c" width="400">
+</p>
 
 ## Features
 - Real-time VGA rendering
